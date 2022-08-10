@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbcc7b0.chunk.css",
-    "main.js": "/static/js/main.519301cc.chunk.js",
-    "main.js.map": "/static/js/main.519301cc.chunk.js.map",
+    "main.js": "/static/js/main.826bfe08.chunk.js",
+    "main.js.map": "/static/js/main.826bfe08.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9c8aa21.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9c8aa21.js.map",
     "static/js/2.7d2467fb.chunk.js": "/static/js/2.7d2467fb.chunk.js",
@@ -49,6 +49,7 @@
     "static/media/Office.0dc19ee1.png": "/static/media/Office.0dc19ee1.png",
     "static/media/OpenCV.e9dafdbe.png": "/static/media/OpenCV.e9dafdbe.png",
     "static/media/Pandas.a7c5c961.png": "/static/media/Pandas.a7c5c961.png",
+    "static/media/Portfolio.9bcadf97.png": "/static/media/Portfolio.9bcadf97.png",
     "static/media/PyQt.1a2a6722.png": "/static/media/PyQt.1a2a6722.png",
     "static/media/PyTorch.118b27ac.png": "/static/media/PyTorch.118b27ac.png",
     "static/media/Python.cb194e89.png": "/static/media/Python.cb194e89.png",
@@ -76,6 +77,6 @@
     "static/js/runtime-main.b9c8aa21.js",
     "static/js/2.7d2467fb.chunk.js",
     "static/css/main.bdbcc7b0.chunk.css",
-    "static/js/main.519301cc.chunk.js"
+    "static/js/main.826bfe08.chunk.js"
   ]
 }
