@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbcc7b0.chunk.css",
-    "main.js": "/static/js/main.826bfe08.chunk.js",
-    "main.js.map": "/static/js/main.826bfe08.chunk.js.map",
+    "main.js": "/static/js/main.73368171.chunk.js",
+    "main.js.map": "/static/js/main.73368171.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9c8aa21.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9c8aa21.js.map",
     "static/js/2.7d2467fb.chunk.js": "/static/js/2.7d2467fb.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/Algo.921ca312.png": "/static/media/Algo.921ca312.png",
     "static/media/Apple.51b1e9b5.png": "/static/media/Apple.51b1e9b5.png",
     "static/media/Azadi.4a92e9be.png": "/static/media/Azadi.4a92e9be.png",
-    "static/media/BFSDFS.c8980157.png": "/static/media/BFSDFS.c8980157.png",
+    "static/media/BFSDFS.087834f4.png": "/static/media/BFSDFS.087834f4.png",
     "static/media/BigBen.348a7279.png": "/static/media/BigBen.348a7279.png",
     "static/media/C.4cc41dee.png": "/static/media/C.4cc41dee.png",
     "static/media/CI.b4b2dce9.png": "/static/media/CI.b4b2dce9.png",
@@ -49,7 +49,7 @@
     "static/media/Office.0dc19ee1.png": "/static/media/Office.0dc19ee1.png",
     "static/media/OpenCV.e9dafdbe.png": "/static/media/OpenCV.e9dafdbe.png",
     "static/media/Pandas.a7c5c961.png": "/static/media/Pandas.a7c5c961.png",
-    "static/media/Portfolio.9bcadf97.png": "/static/media/Portfolio.9bcadf97.png",
+    "static/media/Portfolio.2b11ac89.png": "/static/media/Portfolio.2b11ac89.png",
     "static/media/PyQt.1a2a6722.png": "/static/media/PyQt.1a2a6722.png",
     "static/media/PyTorch.118b27ac.png": "/static/media/PyTorch.118b27ac.png",
     "static/media/Python.cb194e89.png": "/static/media/Python.cb194e89.png",
@@ -60,11 +60,12 @@
     "static/media/SDL.e77409f6.png": "/static/media/SDL.e77409f6.png",
     "static/media/ScikitLearn.0fb78c63.png": "/static/media/ScikitLearn.0fb78c63.png",
     "static/media/Scrapy.b47a0cb5.png": "/static/media/Scrapy.b47a0cb5.png",
+    "static/media/Scratch.515a7c7a.png": "/static/media/Scratch.515a7c7a.png",
     "static/media/Scratch.74ff47fa.png": "/static/media/Scratch.74ff47fa.png",
     "static/media/Seaborn.7f013c65.png": "/static/media/Seaborn.7f013c65.png",
     "static/media/Teams.8de115be.png": "/static/media/Teams.8de115be.png",
     "static/media/TensorFlow.9484ea67.png": "/static/media/TensorFlow.9484ea67.png",
-    "static/media/TicTacToe.fa2251b5.png": "/static/media/TicTacToe.fa2251b5.png",
+    "static/media/TicTacToe.225a00ed.png": "/static/media/TicTacToe.225a00ed.png",
     "static/media/UCSD.20da7ba4.png": "/static/media/UCSD.20da7ba4.png",
     "static/media/Ubuntu.2b34c238.png": "/static/media/Ubuntu.2b34c238.png",
     "static/media/Unity.1675a883.png": "/static/media/Unity.1675a883.png",
@@ -77,6 +78,6 @@
     "static/js/runtime-main.b9c8aa21.js",
     "static/js/2.7d2467fb.chunk.js",
     "static/css/main.bdbcc7b0.chunk.css",
-    "static/js/main.826bfe08.chunk.js"
+    "static/js/main.73368171.chunk.js"
   ]
 }
