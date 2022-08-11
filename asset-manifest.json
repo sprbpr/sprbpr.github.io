@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbcc7b0.chunk.css",
-    "main.js": "/static/js/main.73368171.chunk.js",
-    "main.js.map": "/static/js/main.73368171.chunk.js.map",
+    "main.js": "/static/js/main.a8e1dcfa.chunk.js",
+    "main.js.map": "/static/js/main.a8e1dcfa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9c8aa21.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9c8aa21.js.map",
     "static/js/2.7d2467fb.chunk.js": "/static/js/2.7d2467fb.chunk.js",
@@ -58,6 +58,7 @@
     "static/media/PythonWD.3cf74433.png": "/static/media/PythonWD.3cf74433.png",
     "static/media/React.e5564ae8.png": "/static/media/React.e5564ae8.png",
     "static/media/SDL.e77409f6.png": "/static/media/SDL.e77409f6.png",
+    "static/media/ScientificCalculator.01b2ba95.png": "/static/media/ScientificCalculator.01b2ba95.png",
     "static/media/ScikitLearn.0fb78c63.png": "/static/media/ScikitLearn.0fb78c63.png",
     "static/media/Scrapy.b47a0cb5.png": "/static/media/Scrapy.b47a0cb5.png",
     "static/media/Scratch.515a7c7a.png": "/static/media/Scratch.515a7c7a.png",
@@ -78,6 +79,6 @@
     "static/js/runtime-main.b9c8aa21.js",
     "static/js/2.7d2467fb.chunk.js",
     "static/css/main.bdbcc7b0.chunk.css",
-    "static/js/main.73368171.chunk.js"
+    "static/js/main.a8e1dcfa.chunk.js"
   ]
 }
