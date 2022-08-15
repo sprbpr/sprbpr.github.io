@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbcc7b0.chunk.css",
-    "main.js": "/static/js/main.a8e1dcfa.chunk.js",
-    "main.js.map": "/static/js/main.a8e1dcfa.chunk.js.map",
+    "main.js": "/static/js/main.593141f6.chunk.js",
+    "main.js.map": "/static/js/main.593141f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9c8aa21.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9c8aa21.js.map",
     "static/js/2.7d2467fb.chunk.js": "/static/js/2.7d2467fb.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/ClickUp.0bc3b9a6.png": "/static/media/ClickUp.0bc3b9a6.png",
     "static/media/ComputerVision.164b675b.png": "/static/media/ComputerVision.164b675b.png",
     "static/media/DS.99b68497.png": "/static/media/DS.99b68497.png",
+    "static/media/DTMF.b5beabd3.png": "/static/media/DTMF.b5beabd3.png",
     "static/media/DeepLearning.95e611ff.png": "/static/media/DeepLearning.95e611ff.png",
     "static/media/DeepLearningAI.c8d6e00f.png": "/static/media/DeepLearningAI.c8d6e00f.png",
     "static/media/Django.279c62f6.png": "/static/media/Django.279c62f6.png",
@@ -50,6 +51,7 @@
     "static/media/OpenCV.e9dafdbe.png": "/static/media/OpenCV.e9dafdbe.png",
     "static/media/Pandas.a7c5c961.png": "/static/media/Pandas.a7c5c961.png",
     "static/media/Portfolio.2b11ac89.png": "/static/media/Portfolio.2b11ac89.png",
+    "static/media/PyAudio.935eb895.png": "/static/media/PyAudio.935eb895.png",
     "static/media/PyQt.1a2a6722.png": "/static/media/PyQt.1a2a6722.png",
     "static/media/PyTorch.118b27ac.png": "/static/media/PyTorch.118b27ac.png",
     "static/media/Python.cb194e89.png": "/static/media/Python.cb194e89.png",
@@ -58,6 +60,7 @@
     "static/media/PythonWD.3cf74433.png": "/static/media/PythonWD.3cf74433.png",
     "static/media/React.e5564ae8.png": "/static/media/React.e5564ae8.png",
     "static/media/SDL.e77409f6.png": "/static/media/SDL.e77409f6.png",
+    "static/media/SciPy.066f84f9.png": "/static/media/SciPy.066f84f9.png",
     "static/media/ScientificCalculator.01b2ba95.png": "/static/media/ScientificCalculator.01b2ba95.png",
     "static/media/ScikitLearn.0fb78c63.png": "/static/media/ScikitLearn.0fb78c63.png",
     "static/media/Scrapy.b47a0cb5.png": "/static/media/Scrapy.b47a0cb5.png",
@@ -79,6 +82,6 @@
     "static/js/runtime-main.b9c8aa21.js",
     "static/js/2.7d2467fb.chunk.js",
     "static/css/main.bdbcc7b0.chunk.css",
-    "static/js/main.a8e1dcfa.chunk.js"
+    "static/js/main.593141f6.chunk.js"
   ]
 }
